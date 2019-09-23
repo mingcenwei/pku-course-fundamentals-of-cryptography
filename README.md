@@ -1,2 +1,2 @@
-# reimagined-journey
+# WeCrack
 Simple Vigenère cipher cracker
